@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "gestion-productos",
+    "products-app": "gestion-productos"
+  }
+}

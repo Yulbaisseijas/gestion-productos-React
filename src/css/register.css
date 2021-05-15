@@ -1,0 +1,9 @@
+.register {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background: rgb(248,248,255);
+    background: linear-gradient(90deg, rgba(248,248,255,1) 0%, rgba(238,238,245,1) 39%, rgba(205,238,245,1) 100%);
+}
